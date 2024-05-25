@@ -20,7 +20,7 @@ public class Student extends User {
     public static void main(String[] args) {
         Student student = new Student();
         student.name = "Obinna Brown";
-        student.password = "Double Dcode@123";
+        student.password = "Aldenco@3doors!";
         System.out.println(student.register());
         System.out.println(student.registerCourse());
         System.out.println(student.checkResults());
